@@ -9,7 +9,7 @@ a.add();
 
 public static void mult () {
 	int a = 456;
-			int b = 789;
+			int b = 755;
 			int c = a*b;
 			System.out.println(a+ "*"+b + "="+c);
 			
